@@ -15,4 +15,7 @@ make build-dev
 make dev
 ```
 
+Poi andare su localhost:8080 per l'interfaccia utente.
+
 Per il deploy, sarà necessario prima conoscere il metodo di deploy che si vuole utilizzare. 
+
